@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<wpt lat="-0.1877758" lon="-78.4875727">
+		<name>C06-RO03</name>
+	</wpt>
+	<trk>
+		<name>C06-RO03</name>
+		<trkseg>
+			<trkpt lat="-0.19037" lon="-78.48508"><ele>0</ele><time>2014-09-20T07:30:00Z</time><name>C06-RO03</name></trkpt>
+			<trkpt lat="-0.19058" lon="-78.48548"><ele>0</ele><time>2014-09-20T07:31:00Z</time><name>C06-RO03</name></trkpt>
+			<trkpt lat="-0.19078" lon="-78.48588"><ele>0</ele><time>2014-09-20T07:32:00Z</time><name>C06-RO03</name></trkpt>
+			<trkpt lat="-0.19089" lon="-78.48625"><ele>0</ele><time>2014-09-20T07:33:00Z</time><name>C06-RO03</name></trkpt>
+			<trkpt lat="-0.19046" lon="-78.48639"><ele>0</ele><time>2014-09-20T07:34:00Z</time><name>C06-RO03</name></trkpt>
+			<trkpt lat="-0.19004" lon="-78.48653"><ele>0</ele><time>2014-09-20T07:35:00Z</time><name>C06-RO03</name></trkpt>
+			<trkpt lat="-0.18969" lon="-78.48670"><ele>0</ele><time>2014-09-20T07:36:00Z</time><name>C06-RO03</name></trkpt>
+			<trkpt lat="-0.19001" lon="-78.48702"><ele>0</ele><time>2014-09-20T07:37:00Z</time><name>C06-RO03</name></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

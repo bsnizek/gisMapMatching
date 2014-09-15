@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<trk>
+		<name>C24-RO03</name>
+		<trkseg>
+			<trkpt lat="-0.16926" lon="-78.49518"><ele>0</ele><time>2014-09-15T22:33:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16932" lon="-78.49473"><ele>0</ele><time>2014-09-15T22:34:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16907" lon="-78.49437"><ele>0</ele><time>2014-09-15T22:35:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16877" lon="-78.49402"><ele>0</ele><time>2014-09-15T22:36:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16863" lon="-78.49362"><ele>0</ele><time>2014-09-15T22:37:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16872" lon="-78.49318"><ele>0</ele><time>2014-09-15T22:38:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16882" lon="-78.49270"><ele>0</ele><time>2014-09-15T22:39:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16891" lon="-78.49225"><ele>0</ele><time>2014-09-15T22:40:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16900" lon="-78.49179"><ele>0</ele><time>2014-09-15T22:41:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16909" lon="-78.49133"><ele>0</ele><time>2014-09-15T22:42:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16919" lon="-78.49085"><ele>0</ele><time>2014-09-15T22:43:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16928" lon="-78.49038"><ele>0</ele><time>2014-09-15T22:44:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16949" lon="-78.49012"><ele>0</ele><time>2014-09-15T22:45:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.16994" lon="-78.49021"><ele>0</ele><time>2014-09-15T22:46:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17038" lon="-78.49030"><ele>0</ele><time>2014-09-15T22:47:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17082" lon="-78.49039"><ele>0</ele><time>2014-09-15T22:48:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17123" lon="-78.49061"><ele>0</ele><time>2014-09-15T22:49:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17162" lon="-78.49086"><ele>0</ele><time>2014-09-15T22:50:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17199" lon="-78.49112"><ele>0</ele><time>2014-09-15T22:51:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17233" lon="-78.49142"><ele>0</ele><time>2014-09-15T22:52:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17267" lon="-78.49172"><ele>0</ele><time>2014-09-15T22:53:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17301" lon="-78.49202"><ele>0</ele><time>2014-09-15T22:54:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17335" lon="-78.49232"><ele>0</ele><time>2014-09-15T22:55:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17366" lon="-78.49265"><ele>0</ele><time>2014-09-15T22:56:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17395" lon="-78.49300"><ele>0</ele><time>2014-09-15T22:57:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17426" lon="-78.49334"><ele>0</ele><time>2014-09-15T22:58:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17461" lon="-78.49340"><ele>0</ele><time>2014-09-15T22:59:00Z</time><name>C24-RO03</name></trkpt>
+			<trkpt lat="-0.17494" lon="-78.49310"><ele>0</ele><time>2014-09-15T23:00:00Z</time><name>C24-RO03</name></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

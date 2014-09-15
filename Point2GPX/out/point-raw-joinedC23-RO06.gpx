@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<trk>
+		<name>C23-RO06</name>
+		<trkseg>
+			<trkpt lat="-0.22100" lon="-78.51471"><ele>0</ele><time>2014-09-16T08:21:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22137" lon="-78.51498"><ele>0</ele><time>2014-09-16T08:22:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22167" lon="-78.51461"><ele>0</ele><time>2014-09-16T08:23:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22196" lon="-78.51437"><ele>0</ele><time>2014-09-16T08:24:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22230" lon="-78.51467"><ele>0</ele><time>2014-09-16T08:25:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22265" lon="-78.51492"><ele>0</ele><time>2014-09-16T08:26:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22294" lon="-78.51454"><ele>0</ele><time>2014-09-16T08:27:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22322" lon="-78.51418"><ele>0</ele><time>2014-09-16T08:28:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22350" lon="-78.51382"><ele>0</ele><time>2014-09-16T08:29:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22379" lon="-78.51345"><ele>0</ele><time>2014-09-16T08:30:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22353" lon="-78.51314"><ele>0</ele><time>2014-09-16T08:31:00Z</time><name>C23-RO06</name></trkpt>
+			<trkpt lat="-0.22318" lon="-78.51284"><ele>0</ele><time>2014-09-16T08:32:00Z</time><name>C23-RO06</name></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

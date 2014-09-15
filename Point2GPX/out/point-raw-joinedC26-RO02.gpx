@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<trk>
+		<name>C26-RO02</name>
+		<trkseg>
+			<trkpt lat="-0.17991" lon="-78.47999"><ele>0</ele><time>2014-09-15T07:19:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18036" lon="-78.48007"><ele>0</ele><time>2014-09-15T07:20:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18081" lon="-78.48015"><ele>0</ele><time>2014-09-15T07:21:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18125" lon="-78.48023"><ele>0</ele><time>2014-09-15T07:22:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18170" lon="-78.48031"><ele>0</ele><time>2014-09-15T07:23:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18215" lon="-78.48038"><ele>0</ele><time>2014-09-15T07:24:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18265" lon="-78.48047"><ele>0</ele><time>2014-09-15T07:25:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18310" lon="-78.48055"><ele>0</ele><time>2014-09-15T07:26:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18356" lon="-78.48063"><ele>0</ele><time>2014-09-15T07:27:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18402" lon="-78.48071"><ele>0</ele><time>2014-09-15T07:28:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18447" lon="-78.48078"><ele>0</ele><time>2014-09-15T07:29:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18493" lon="-78.48086"><ele>0</ele><time>2014-09-15T07:30:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18528" lon="-78.48113"><ele>0</ele><time>2014-09-15T07:31:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18559" lon="-78.48146"><ele>0</ele><time>2014-09-15T07:32:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18592" lon="-78.48180"><ele>0</ele><time>2014-09-15T07:33:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18624" lon="-78.48214"><ele>0</ele><time>2014-09-15T07:34:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18655" lon="-78.48247"><ele>0</ele><time>2014-09-15T07:35:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18686" lon="-78.48280"><ele>0</ele><time>2014-09-15T07:36:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18719" lon="-78.48312"><ele>0</ele><time>2014-09-15T07:37:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18753" lon="-78.48343"><ele>0</ele><time>2014-09-15T07:38:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18787" lon="-78.48375"><ele>0</ele><time>2014-09-15T07:39:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18820" lon="-78.48406"><ele>0</ele><time>2014-09-15T07:40:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18854" lon="-78.48436"><ele>0</ele><time>2014-09-15T07:41:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18888" lon="-78.48468"><ele>0</ele><time>2014-09-15T07:42:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18921" lon="-78.48499"><ele>0</ele><time>2014-09-15T07:43:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18955" lon="-78.48529"><ele>0</ele><time>2014-09-15T07:44:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.18990" lon="-78.48562"><ele>0</ele><time>2014-09-15T07:45:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.19023" lon="-78.48592"><ele>0</ele><time>2014-09-15T07:46:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.19060" lon="-78.48619"><ele>0</ele><time>2014-09-15T07:47:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.19099" lon="-78.48634"><ele>0</ele><time>2014-09-15T07:48:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.19141" lon="-78.48619"><ele>0</ele><time>2014-09-15T07:49:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.19186" lon="-78.48605"><ele>0</ele><time>2014-09-15T07:50:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.19229" lon="-78.48590"><ele>0</ele><time>2014-09-15T07:51:00Z</time><name>C26-RO02</name></trkpt>
+			<trkpt lat="-0.19272" lon="-78.48576"><ele>0</ele><time>2014-09-15T07:52:00Z</time><name>C26-RO02</name></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

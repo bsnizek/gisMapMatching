@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<wpt lat="-0.2039977" lon="-78.4863281">
+		<name>C21-RO02</name>
+	</wpt>
+	<trk>
+		<name>C21-RO02</name>
+		<trkseg>
+			<trkpt lat="-0.19823" lon="-78.48670"><ele>0</ele><time>2014-09-16T15:42:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.19869" lon="-78.48690"><ele>0</ele><time>2014-09-16T15:43:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.19911" lon="-78.48708"><ele>0</ele><time>2014-09-16T15:44:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.19953" lon="-78.48727"><ele>0</ele><time>2014-09-16T15:45:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.19995" lon="-78.48747"><ele>0</ele><time>2014-09-16T15:46:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20039" lon="-78.48768"><ele>0</ele><time>2014-09-16T15:47:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20081" lon="-78.48787"><ele>0</ele><time>2014-09-16T15:48:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20123" lon="-78.48807"><ele>0</ele><time>2014-09-16T15:49:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20165" lon="-78.48826"><ele>0</ele><time>2014-09-16T15:50:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20209" lon="-78.48846"><ele>0</ele><time>2014-09-16T15:51:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20232" lon="-78.48817"><ele>0</ele><time>2014-09-16T15:52:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20250" lon="-78.48772"><ele>0</ele><time>2014-09-16T15:53:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20284" lon="-78.48741"><ele>0</ele><time>2014-09-16T15:54:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20318" lon="-78.48712"><ele>0</ele><time>2014-09-16T15:55:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20351" lon="-78.48680"><ele>0</ele><time>2014-09-16T15:56:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20383" lon="-78.48648"><ele>0</ele><time>2014-09-16T15:57:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20417" lon="-78.48613"><ele>0</ele><time>2014-09-16T15:58:00Z</time><name>C21-RO02</name></trkpt>
+			<trkpt lat="-0.20449" lon="-78.48580"><ele>0</ele><time>2014-09-16T15:59:00Z</time><name>C21-RO02</name></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
